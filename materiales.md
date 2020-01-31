@@ -28,7 +28,7 @@ TIPO DE SONIDO
 MATERIALES
    Reciclables
       latas, madera, cartón, papel de aluminio, vidrio, hilo de pescar, plástico, esponja
-   Elcetrónocos
+   Electrónicos
       cables, pilas, motores, interruptor
    Naturales
       semillas, piedra, conchas, troncos, piñas,agua
