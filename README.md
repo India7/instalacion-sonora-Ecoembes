@@ -12,4 +12,4 @@
 ### 4 Taller
 
 ### 5 Montaje y documentación
-["memoria_ecoembes"](memoria_ecoembes.jpg)
+["memoria_ecoembes"](memoria_ecoembes.pdf)
